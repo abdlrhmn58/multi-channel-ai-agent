@@ -35,7 +35,28 @@
   - Export capabilities (CSV)
 
 ---
+## 📸 Screenshots
 
+### Dashboard Overview
+Real-time metrics and analytics at a glance.
+
+![Dashboard Overview](dashboard.png)
+
+---
+
+### Chat Interface
+Natural conversation with AI-powered responses and persistent memory.
+
+![Chat Interface](chat.PNG)
+
+---
+
+### Appointments Manager
+View, filter, and export scheduled appointments.
+
+![Appointments](appointments.png)
+
+---
 ## 🛠️ Technology Stack
 
 | Layer | Technologies |
